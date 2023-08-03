@@ -12,7 +12,7 @@ The design of this landing page was inspired by the website of [DinoBros](https:
 
 ## Features
 
-- Built using HTML5, CSS3, Bootstrap, and [Splide](https://splidejs.com/)
+- Built using HTML5, CSS3, Bootstrap, Javascript, and [Splide](https://splidejs.com/)
 - Responsive layout for optimal viewing across devices
 - Modern and visually appealing UI/UX design
 

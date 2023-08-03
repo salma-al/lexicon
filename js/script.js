@@ -29,10 +29,8 @@ splide.mount();
 // -----------------------
 // Mouse event animation
 
-// Select all cards
 var cards = document.querySelectorAll('.card');
 
-// Iterate over each card
 cards.forEach(function (card) {
   var image = card.querySelector('img');
 
