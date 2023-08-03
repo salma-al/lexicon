@@ -686,6 +686,10 @@ button.splide__pagination__page {
     margin-top: 1em;
     margin-left: -0.5em;
   }
+
+  #news .nav .nav-item {
+    padding-inline: 0.5em;
+  }
 }
 
 /* @media (min-width: 768px) {
